@@ -1,0 +1,19 @@
+$1-
+install -
+python -m pip install pyinstaller
+
+$2-
+write in cmd in game folder -
+pyinstaller main.py --onefile --windowed
+
+@1-
+create a dist folder
+
+$3 - 
+paste assets folder inside dist folder
+
+
+
+---------------------------------------------
+$ - steps
+@ - autos / automatically output generated during steps 
