@@ -82,4 +82,10 @@ Concept of storing high point is still not implemented so there is necessarily n
 
 
 # INSTALLATION
+### METHOD 1
 ## Just Download the full repository and Run Main file inside VS Code
+
+### METHOD 2
+### go to buld.txt and follow instruction
+<img width="773" height="723" alt="image" src="https://github.com/user-attachments/assets/398545c8-c29b-48df-a0c8-7c1b7250ee47" />
+
